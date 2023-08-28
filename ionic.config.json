@@ -1,0 +1,7 @@
+{
+  "name": "gym-training-assistant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
