@@ -61,8 +61,9 @@
     "karma-coverage-istanbul-reporter": "~3.0.2",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
+    "prettier": "^3.0.2",
     "ts-node": "^8.3.0",
     "typescript": "~5.0.2"
   },
-  "description": "An Ionic project"
+  "description": "Application that integrates all the tools and utilities every athlete would like to have at their fingertips during their workout."
 }
